@@ -1,0 +1,20 @@
+{
+  "name": "githubdo",
+  "version": "0.0.0",
+  "description": "githubdo ========",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ben--/githubdo.git"
+  },
+  "author": "Ben Rogers",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "0e9f8c2a7c5cd0b00e5a41294dccbca5c32437cf",
+  "dependencies": {
+    "express": "~3.3.4"
+  }
+}
